@@ -16,6 +16,7 @@ const Movies = () => {
     { title: "Smile 2022 | Dual Audio | 1080p", link: "https://drive.google.com/file/d/1y3esbJXk-oNVqSW2o90cyOUKQRlTShRn/view?usp=sharing" },
     { title: "Smile 2 2024 | Dual Audio | 720p", link: "https://drive.google.com/file/d/1g2LcyfOY1uYznIH_y7o5wxpU29jb-X8V/view?usp=sharing" },
     { title: "Stranger Things S1 | Dual Audio | 1080p", link: "https://drive.google.com/drive/folders/19Bl-BtvUrS7vjO_UHCvvtfTdBBntUwYb?usp=sharing" },
+    { title: "Mindhunters 2004 | Dual Audio | 720p", link: "https://drive.google.com/file/d/1QeCFXyZ8c9t7aJ4ufmorj2tlNGkjn2wi/view?usp=sharing" },
   ];
 
   const location = useLocation();
